@@ -475,7 +475,7 @@ omarchy-theme-install https://github.com/krymzonn/omarchy-kimiko-theme
 
 ### [Komorebi](https://github.com/ryuhzk/komorebi)
 
-[![Komorebi Preview](https://private-user-images.githubusercontent.com/213640356/490439140-2011aea3-6dd3-40c7-bb14-c7bc52444c6b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg0Mzk4NzMsIm5iZiI6MTc1ODQzOTU3MywicGF0aCI6Ii8yMTM2NDAzNTYvNDkwNDM5MTQwLTIwMTFhZWEzLTZkZDMtNDBjNy1iYjE0LWM3YmM1MjQ0NGM2Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyMVQwNzI2MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MTVlZmJjMWU4YWJiYTUzNDFlZjJjOTRmMzUxMjNmMTg5ZjgxODdmMzI4MjIwOGUxNWM3YzJiZjExNjAzYzU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Cp8CWg3RGzFqUCxKaq9rR7VJKqW8_xnu0MqTRYpRsAQ)](https://github.com/ryuhzk/komorebi)
+[![Komorebi Preview](https://private-user-images.githubusercontent.com/213640356/490439140-2011aea3-6dd3-40c7-bb14-c7bc52444c6b.png?jwt=[REDACTED_JWT])](https://github.com/ryuhzk/komorebi)
 Install:
 ```
 omarchy-theme-install https://github.com/ryuhzk/komorebi
